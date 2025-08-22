@@ -1,0 +1,32 @@
+export const products = [
+  { id: 1, name: 'Apple MacBook Pro 14"', price: '3899.99', imageUrl: '/images/macbook.png', tag: 'Ən çox Satılanlar', brand: 'Apple', ram: 16 },
+  { id: 2, name: 'Dell XPS 15', price: '3499.99', imageUrl: '/images/dell.png', tag: 'Ən çox Satılanlar', brand: 'Dell', ram: 16 },
+  { id: 3, name: 'HP Spectre x360', price: '2999.99', imageUrl: '/images/hp.png', tag: 'Ən çox Satılanlar', brand: 'HP', ram: 8 },
+  { id: 4, name: 'Lenovo Yoga 9i', price: '3199.99', imageUrl: '/images/lenovo.png', tag: 'Ən çox Satılanlar', brand: 'Lenovo', ram: 16 },
+  { id: 5, name: 'Asus Zenbook Duo', price: '4299.99', imageUrl: '/images/hp.png', tag: 'Yenilər', brand: 'Asus', ram: 32 },
+  { id: 6, name: 'Microsoft Surface Pro 9', price: '2799.99', imageUrl: '/images/hp.png', tag: 'Yenilər', brand: 'Microsoft', ram: 16 },
+  { id: 7, name: 'Razer Blade 16', price: '5499.99', imageUrl: '/images/hp.png', tag: 'Yenilər', brand: 'Razer', ram: 32 },
+  { id: 8, name: 'Samsung Galaxy Book3', price: '2199.99', imageUrl: '/images/hp.png', tag: 'Yenilər', brand: 'Samsung', ram: 8 },
+  { id: 9, name: 'Apple MacBook Air M2', price: '2599.99', imageUrl: '/images/macbook.png', tag: 'Sevilənlər', brand: 'Apple', ram: 8 },
+  { id: 10, name: 'Lenovo ThinkPad X1', price: '3399.99', imageUrl: '/images/lenovo.png', tag: 'Sevilənlər', brand: 'Lenovo', ram: 16 },
+  { id: 11, name: 'HP Envy 13', price: '1899.99', imageUrl: '/images/hp.png', tag: 'Qaçmaz Təkliflər', brand: 'HP', ram: 8 },
+  { id: 12, name: 'Dell Inspiron 15', price: '1599.99', imageUrl: '/images/dell.png', tag: 'Qaçmaz Təkliflər', brand: 'Dell', ram: 16 },
+  { id: 13, name: 'Asus ROG Strix', price: '4899.99', imageUrl: '/images/hp.png', tag: 'Sevilənlər', brand: 'Asus', ram: 32 },
+  { id: 14, name: 'Lenovo Legion 5', price: '3799.99', imageUrl: '/images/lenovo.png', tag: 'Sevilənlər', brand: 'Lenovo', ram: 16 },
+  { id: 15, name: 'MSI Katana GF66', price: '2499.99', imageUrl: '/images/hp.png', tag: 'Qaçmaz Təkliflər', brand: 'MSI', ram: 16 },
+];
+
+export const youtubeShorts = [
+  { id: 1, videoId: 'nm_I4jnhNlc', title: 'Yeni MacBook Pro ilə Tanış Olun!', views: '1.2M' },
+  { id: 2, videoId: 'MeAYZ6FaM4g', title: 'Dell XPS: Performans Testləri', views: '890K' },
+  { id: 3, videoId: 'HRvucNidXSs', title: 'Gaming üçün Ən Yaxşı Noutbuklar', views: '2.1M' },
+  { id: 4, videoId: '-BoLmgdsq4c', title: 'Tələbələr üçün Büdcəli Seçimlər', views: '750K' },
+  { id: 5, videoId: 'w6LIt6-eNOg', title: 'Razer Blade 15 İcmalı', views: '1.8M' },
+  { id: 6, videoId: 'Lvo0Hs_1iG8', title: 'Microsoft Surface Laptop Studio', views: '950K' },
+  { id: 7, videoId: 'Pj_hG_4j430', title: 'Ən Yaxşı Proqramlaşdırma Noutbuku', views: '3.2M' },
+  { id: 8, videoId: 'kS53wgB2xK4', title: 'ASUS Zenbook Duo təqdimatı', views: '1.1M' },
+  { id: 9, videoId: 'U8C0A-z_4zQ', title: 'HP Spectre x360 Gözəlliyi', views: '640K' },
+  { id: 10, videoId: 'uD3-s_J2q4A', title: 'Lenovo Yoga Slim 7 İcmalı', views: '1.3M' },
+  { id: 11, videoId: 'h3_qW3s-2-c', title: 'Ofis işləri üçün noutbuklar', views: '480K' },
+  { id: 12, videoId: 'r8uQd2L4_sY', title: 'AMD vs Intel: Hansı daha yaxşıdır?', views: '2.5M' },
+];
